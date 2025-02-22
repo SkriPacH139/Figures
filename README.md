@@ -24,4 +24,14 @@
 ## Результаты отладки
 В ходе тестирования ошибок выявлено не было. Программа корректно обрабатывает вводимые данные и исключает возможность выполнения вычислений при некорректном вводе.
 
-
+![Основное окно]([screenshots/screenshot1.png](https://github.com/SkriPacH139/Figures/blob/master/1.png))
+![Выбран прямоугольник]([screenshots/screenshot1.png](https://github.com/SkriPacH139/Figures/blob/master/2.png))
+![Выбран круг]([screenshots/screenshot1.png](https://github.com/SkriPacH139/Figures/blob/master/3.png))
+![Выбран треугольник]([screenshots/screenshot1.png](https://github.com/SkriPacH139/Figures/blob/master/4.png))
+![Расчет площади прямоугольника]([screenshots/screenshot1.png](https://github.com/SkriPacH139/Figures/blob/master/5.png))
+![Расчет площади круга]([screenshots/screenshot1.png](https://github.com/SkriPacH139/Figures/blob/master/6.png))
+![Ошибка треугольник]([screenshots/screenshot1.pn](https://github.com/SkriPacH139/Figures/blob/master/7.png))
+![Расчет площади треугольника]([screenshots/screenshot1.png](https://github.com/SkriPacH139/Figures/blob/master/8.png))
+![Ошибка прямоугльник]([screenshots/screenshot1.png](https://github.com/SkriPacH139/Figures/blob/master/9.png))
+![Ошибка круг]([screenshots/screenshot1.png](https://github.com/SkriPacH139/Figures/blob/master/10.png))
+![Шибка выбора фигур]([screenshots/screenshot1.png](https://github.com/SkriPacH139/Figures/blob/master/11.png))
